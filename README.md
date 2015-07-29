@@ -1,0 +1,2 @@
+# thiki
+think wiki
